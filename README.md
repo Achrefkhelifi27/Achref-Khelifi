@@ -5,7 +5,7 @@
 MSc Strategic Engineering · Politecnico di Genova · Expected Dec 2026  
 Genova, Italy
 
-I work at the intersection of energy systems engineering and applied data science — building tools that help quantify uncertainty, optimise performance, and support sustainability decisions.
+I work at the intersection of energy systems engineering and applied data science: building tools that help quantify uncertainty, optimise performance, and support sustainability decisions.
 
 
 ## Tech stack
@@ -24,23 +24,23 @@ MATLAB       ████████░░░░░░░░░░░░  Engin
 
 ## Background 
 
-| 🎓 | MSc Strategic Engineering — Politecnico di Genova (2024–2026) |
-| ⚡ | Energy Engineering — ENIM Monastir, Tunisia (2020–2023) |
+| 🎓 | MSc Strategic Engineering at Politecnico di Genova (2024–2026) |
+| ⚡ | Energy Engineering at ENIM Monastir, Tunisia (2020–2023) |
 
 
 ---
 
 ## Work Experience
-| 🏭 | Energy Engineer — Marquardt Group, Energy Management CC (2023–2024) |
+| 🏭 | Energy Engineer at  Marquardt Group, Energy Management CC (2023–2024) |
 | 📋 | ISO 14067 · Carbon Footprint · ESG Reporting |
 
 ---
 
 ## Certifications
 
-- Statistical Simulation · Monte Carlo · Discrete Event Simulation in Python — *DataCamp, Jan 2026*
-- Time Series Analysis in Python — *DataCamp, Feb 2026*
-- Product Carbon Footprint · ISO 14067 — *CITET, Dec 2023*
+- Statistical Simulation · Monte Carlo · Discrete Event Simulation in Python , *DataCamp, Jan 2026*
+- Time Series Analysis in Python , *DataCamp, Feb 2026*
+- Product Carbon Footprint · ISO 14067 , *CITET, Dec 2023*
 
 ---
 
